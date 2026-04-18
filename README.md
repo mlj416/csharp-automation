@@ -1,4 +1,4 @@
-# Selenium Java Test Automation Framework
+# Selenium C# Test Automation Framework
 
 ## 📌 Overview
 
